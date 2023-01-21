@@ -1,6 +1,6 @@
 export const robots = [
     {
-        id: 1, 
+        id: 12, 
         name: 'Leanne Graham',
         username: 'Bret',
         email: 'Sincere@april.biz'
@@ -22,7 +22,12 @@ export const robots = [
         name: 'Whoever Tf',
         username: 'Spider',
         email: 'glassesarecool@gmail.com'
-    }    
-    
+    },    
+    {
+        id: 5, 
+        name: 'Manolo',
+        username: 'cubanito',
+        email: 'notengo@gmail.com'
+    },    
 ]
 
